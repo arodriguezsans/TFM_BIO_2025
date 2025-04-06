@@ -7,3 +7,11 @@ En este repositorio te subiré los ficheros sobre los que estaré trabajando.
 - He empezado la imputación de los ceros y corrección por sexo y edad para las matrices FA (Pre_processing_FA_Null_Age_Sex-HCB / NAPLES.ipynb). 
 Verás que he generado carpetas nuevas a las proporcionadas donde guardo las matrices de conectividad corregidas.En el fichero las primeras líneas son una explicación de lo realizado.
 
+06_Apr
+
+- He añadido un Pre_processing_FA_Corrected_Analysis_HCB que cubriria todo el preprocesado:
+    - Imputación
+    - Covaraibles
+    - Normalización
+    - Combat
+    - Visualizaciones de matrices por tipos 
