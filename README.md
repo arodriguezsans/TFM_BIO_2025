@@ -9,7 +9,7 @@ Verás que he generado carpetas nuevas a las proporcionadas donde guardo las mat
 
 06_Apr
 
-- He añadido un Pre_processing_FA_Corrected_Analysis_HCB que cubriria todo el preprocesado:
+- He añadido un Pre_processing_FA_Corrected_Analysis_HCB / Naples que cubriría todo el preprocesado:
     - Imputación
     - Covaraibles
     - Normalización
