@@ -1,17 +1,23 @@
-# TFM_BIO_2025
+#TFM_BIO_2025
 
-En este repositorio te subiré los ficheros sobre los que estaré trabajando.
+I'll upload the files I'll be working on to this repository.
 
-- Los "Data_check..." son un primer vistazo a los ficheros Clinic, etc donde elimino alguna columna no necesaria. Los data-frame resultantes los guardo a formato pickcle (a la hora de cargar van mejor en python y los tipos de datos se mantienen).
+- The "Data_check..." files are a first look at the Clinic, etc. files, where some unnecessary columns are removed. The resulting data frames are saved in Pickle format (they work better in Python when loading, and the data types are maintained).
 
-- He empezado la imputación de los ceros y corrección por sexo y edad para las matrices FA (Pre_processing_FA_Null_Age_Sex-HCB / NAPLES.ipynb). 
-Verás que he generado carpetas nuevas a las proporcionadas donde guardo las matrices de conectividad corregidas.En el fichero las primeras líneas son una explicación de lo realizado.
+- I started the imputation of zeros and the correction for sex and age for the FA matrices (Pre_processing_FA_Null_Age_Sex-HCB / NAPLES.ipynb).
+You'll see that I've generated new folders in addition to those provided, where the corrected connectivity matrices are stored. The first lines of the file explain what I've done.
 
-06_Apr
+Apr 6
 
-- He añadido un Pre_processing_FA_Corrected_Analysis_HCB / Naples que cubriría todo el preprocesado:
-    - Imputación
-    - Covaraibles
-    - Normalización
-    - Combat
-    - Visualizaciones de matrices por tipos 
+- Added a Pre_processing_FA_Corrected_Analysis_HCB / Naples that would cover all preprocessing:
+- Imputation
+- Covariates
+- Normalization
+- Combating
+- Matrix visualizations by type.
+
+Apr 22
+
+- 1. Added all preprocessing for all layers (Pre_processing_...)
+- 2. Added generation of graph metrics per layer and multi-layer (Grap-Metrics...)
+ 
