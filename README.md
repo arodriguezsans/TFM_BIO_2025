@@ -25,5 +25,6 @@ May 3
 
 - Added all GNN strategies    
 - Minor midificaitons in previous .ipynb files for better documentation and understanding of the steps done.
+- Multilayer data was loaded with all the calcualtions, figures, etc. performed in each section.
 
  
