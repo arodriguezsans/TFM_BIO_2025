@@ -14,10 +14,16 @@ Apr 6
 - Covariates
 - Normalization
 - Combating
-- Matrix visualizations by type.
+- Matrix visualizations by type
 
 Apr 22
 
-- 1. Added all preprocessing for all layers (Pre_processing_...)
-- 2. Added generation of graph metrics per layer and multi-layer (Grap-Metrics...)
+- Added all preprocessing for all layers (Pre_processing_...)
+- Added generation of graph metrics per layer and multi-layer (Grap-Metrics...)
+
+May 3
+
+- Added all GNN strategies    
+- Minor midificaitons in previous .ipynb files for better documentation and understanding of the steps done.
+
  
