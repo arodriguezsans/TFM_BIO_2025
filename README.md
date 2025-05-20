@@ -17,23 +17,23 @@ Contents and Workflow
 
 Order to read the files:
 
-1 - #Data_check_CLINIC_HCB-CLINIC_Naples.ipynb
+* 1 - #Data_check_CLINIC_HCB-CLINIC_Naples.ipynb
 
-2a - #Pre_processing_FA_Corrected_Analysis-HCB_new.ipynb
-2b - #Pre_processing_FA_Corrected_Analysis-Naples_new.ipynb
-2c - #Pre_processing_GM_Corrected_Analysis-NAPLES_new.ipynb
-2d - #Pre_processing_GM_Corrected_Analysis_HCB_new.ipynb
-2e - #Pre_processing_rsfMRI_Corrected_Analysis-HCB_new.ipynb
-2f - #Pre_processing_rsfMRI_Corrected_Analysis-NAPLES_new.ipynb
+* 2a - #Pre_processing_FA_Corrected_Analysis-HCB_new.ipynb
+* 2b - #Pre_processing_FA_Corrected_Analysis-Naples_new.ipynb
+* 2c - #Pre_processing_GM_Corrected_Analysis-NAPLES_new.ipynb
+* 2d - #Pre_processing_GM_Corrected_Analysis_HCB_new.ipynb
+* 2e - #Pre_processing_rsfMRI_Corrected_Analysis-HCB_new.ipynb
+* 2f - #Pre_processing_rsfMRI_Corrected_Analysis-NAPLES_new.ipynb
 
-3a - #Graph-Metrics_Generation-Layer_and_Multilayer.ipynb
-3b - #Graph-Metrics-Analisys-Global-Layer-Layer.ipynb
-3c - #Graph-Metrics-Analisys-Global-MultiLayer.ipynb
-3d - #Graph-Metrics-Analisys-Nodal-Layer-Layer.ipynb
-3e - #Graph-Metrics-Analisys-Nodal-MultiLayer.ipynb
+* 3a - #Graph-Metrics_Generation-Layer_and_Multilayer.ipynb
+* 3b - #Graph-Metrics-Analisys-Global-Layer-Layer.ipynb
+* 3c - #Graph-Metrics-Analisys-Global-MultiLayer.ipynb
+* 3d - #Graph-Metrics-Analisys-Nodal-Layer-Layer.ipynb
+* 3e - #Graph-Metrics-Analisys-Nodal-MultiLayer.ipynb
 
-4a - #ML_Intial_GNN-All-Sig_Naples_Layer.ipynb
-4b - #ML_Intial_GNN-All-Sig_Naples_MLayer.ipynb
-4c - #ML_Initial_GNN_HCB_AllLayers.ipynb
+* 4a - #ML_Intial_GNN-All-Sig_Naples_Layer.ipynb
+* 4b - #ML_Intial_GNN-All-Sig_Naples_MLayer.ipynb
+* 4c - #ML_Initial_GNN_HCB_AllLayers.ipynb
 
 All these files are fully documented and are self-reading explainable. 
